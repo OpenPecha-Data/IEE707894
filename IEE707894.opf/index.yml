@@ -1,0 +1,47 @@
+id: 47b192e47ea74e37adbe3856f3c5a22e
+annotation_type: index
+revision: '00001'
+annotations:
+  ccfa7292909547dfa9580336a780ffa0:
+    base: B8BB.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 15
+    - title: Homage
+      span:
+        start: 16
+        end: 126
+    - title: Short §1
+      span:
+        start: 127
+        end: 248
+    - title: Short §2
+      span:
+        start: 249
+        end: 338
+    - title: Short §3
+      span:
+        start: 339
+        end: 349
+    - title: Short §4
+      span:
+        start: 350
+        end: 433
+    - title: Short §5
+      span:
+        start: 434
+        end: 467
+    - title: Short §6
+      span:
+        start: 468
+        end: 565
+    - title: Short §7
+      span:
+        start: 566
+        end: 865
+    - title: Colophon
+      span:
+        start: 866
+        end: 878

@@ -1,0 +1,16 @@
+id: IEE707894
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:15:38.803132
+last_modified: 2023-02-08 15:15:38.803228
+source_metadata:
+  title: 'PP: Prajñāpāramitāhṛdaya'
+  language: zh
+bases:
+  B8BB:
+    base_file: B8BB.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
